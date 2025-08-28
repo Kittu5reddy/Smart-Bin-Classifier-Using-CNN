@@ -43,4 +43,3 @@ while True:
 
     # Add slight delay (Streamlit loop refresh)
     time.sleep(0.05)
-    
